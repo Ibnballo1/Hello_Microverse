@@ -1,5 +1,5 @@
 # Hello-Microverse
-In this project, I will be creating a *Hello Microverse* repo. This will be done by first creating a feature branch then add a **README.md** file. The project will have a .gitignore file to ignore all unneccesary files together with three files for HTML, CSS and text file.
+In this project, I will be creating a *Hello_Microverse* repo. This will be done by first creating a feature branch then add a **README.md** file. The project will have a .gitignore file to ignore all unneccesary files together with three files for HTML, CSS and text file.
 
 # Built With
 * Major Languages
